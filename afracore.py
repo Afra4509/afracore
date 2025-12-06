@@ -31,7 +31,7 @@ CONFIG = {
     
     # API Keys - YOUR KEYS HERE
     'api_keys': {
-        'ipinfo': "d5c38457ffc3d8",  # Your ipinfo.io token
+        'ipinfo': "isisendiri",  # Your ipinfo.io token
         'ipapi': None                 # Optional backup
     },
     
